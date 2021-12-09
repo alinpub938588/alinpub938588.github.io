@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <head>
 	 <meta charset="UTF-8"/>
@@ -47,15 +47,16 @@
 <br>
 <center>
 <marquee>
-<img src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi"/>
+<img src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=50/>
 </marquee>
 </center>
 <br>
 <center>
 <marquee>
-<p><i>Europa Casino is licenced by the <b>Jurisdiction of Malta.</i></p></marquee>
+<p>Leovegas Casino</p>
+</marquee>
+<footer><i>LeoVegas Casino is licenced by the <b>Jurisdiction of Malta.</i></footer>
 </center>
-<br>
 
 </body>
 </html>

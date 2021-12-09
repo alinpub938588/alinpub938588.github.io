@@ -46,7 +46,7 @@
 <center>
 <hr>
 <marquee>
-<img src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=50/>
+<img align="left" src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=50/>
 </marquee>
 </center>
 <center>

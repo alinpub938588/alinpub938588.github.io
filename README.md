@@ -5,7 +5,7 @@
  </head>
 	 <body >
 	<img align="left" src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=30/>
-	<small> LEOVEGAS CASINO</small>
+	<small style="font-size:25px"> LEOVEGAS CASINO</small>
 	<center>
 <h1 style="bold:true">REVIEW ON LEOVEGAS CASINO </h1>
 </center>
@@ -50,11 +50,10 @@
 <marquee>
 <img align="left" src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=50/>
 </marquee>
+<small style="font-size:25px">Leovegas Casino</small>
+</marquee>
 </center>
 <center>
-<marquee>
-<small>Leovegas Casino</small>
-</marquee>
 <footer><i>LeoVegas Casino is licenced by the <b>Jurisdiction of Malta.</i></footer>
 </center>
 

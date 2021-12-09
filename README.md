@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
  <head>
- <title>leovegas</title>
 	 <meta charset="UTF-8"/>
 	 <link rel="stylesheet" href="" type="text/css"/>
  </head>
@@ -16,9 +15,9 @@
 		
 		<br>
 		<center><h1 style="font-family:Arial">Restricted Countries</h1></center><br>
-<div  style="font-size:auto;font-family:Arial;width:auto;height:auto;border:3px solid">
+
 <p>Numerous legal restrictions prevent LeoVegas Casino from offering its services to players in Australia,United States , Hungary , Estonia , Serbia , Russia , Ukraine , Africa , Asia , and Latin America.Additionally , bonuses are only given to players in the United Kingdom ,Canada , New Zealand , Ireland , Australia , Switzerland , Germany , Sweden , Norway , Finland and Denmark.
-</div>
+
 <br>
 <center><h1 style="font-family:Arial">Virtual Games</h1></center>
 <p  style="font-family:Arial;font-size:auto">
@@ -47,11 +46,14 @@
 </center>
 <br>
 <center>
+<marquee>
 <img src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi"/>
+</marquee>
 </center>
 <br>
 <center>
-<p><i>Europa Casino is licenced by the <b>Jurisdiction of Malta.</i></p>
+<marquee>
+<p><i>Europa Casino is licenced by the <b>Jurisdiction of Malta.</i></p></marquee>
 </center>
 <br>
 

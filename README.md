@@ -15,7 +15,7 @@
 </center>
 	<img src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi"/>
 	
-		<p style="font-family:Arial;font-size:auto"><i><b>LeoVegas Casino</b></i> is an online casino designed with both desktop and mobile players in mind .The site is powered by 9 different gaming platforms:<i><b>Netent,Microgaming,IGT,Bally,BluePrint,Nextgen,Evolution gaming,Red Tiger Gaming ,Play'n Go , Yggdrasil gaming and Quickspin.</b></i>A live dear room is included.The site is licenced by the <i><b>Jurisdiction of Malta.</b></i><br></p>
+		<p style="font-family:Arial;font-size:auto"><i><b>LeoVegas Casino</b></i> is an online casino designed with both desktop and mobile players in mind .The site is powered by 9 different gaming platforms <b>Netent,Microgaming,IGT,Bally,BluePrint,Nextgen,Evolution gaming,Red Tiger Gaming ,Play'n Go , Yggdrasil gaming and Quickspin.</b>A live dear room is included.The site is licenced by the <i><b>Jurisdiction of Malta.</b></i><br></p>
 		
 		
 		<center><h1 style="font-family:Arial">Restricted Countries</h1></center><br>

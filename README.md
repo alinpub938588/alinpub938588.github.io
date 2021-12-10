@@ -5,7 +5,7 @@
  </head>
 	 <body >
 	<img align="left" src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=30/>
-	<small style="font-size:30px"> Leovegas Casino</small>
+	<small style="font-size:30px"><b>Leovegas Casino</b></small>
 	<center>
 <h1 style="bold:true">REVIEW ON LEOVEGAS CASINO </h1>
 </center>

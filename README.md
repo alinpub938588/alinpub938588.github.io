@@ -3,10 +3,7 @@
 	 <meta charset="UTF-8"/>
 	 <link rel="stylesheet" href="" type="text/css"/>
  </head>
-	 <body >
-<div style="background-color:green;border:3px solid">
-
-</div>
+	 <body>
 <center>
 	<img align="left" src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=50 height=30/>
 	<small style="font-size:30px"><b>Leovegas Casino</b></small>
